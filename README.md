@@ -27,7 +27,7 @@ Your requirements are below. We encourage you to think deeply about these featur
 - Users should be able to search prospects and companies and see a detailed view of the selected item.
 - Users should be able to take actions like adding tasks through this command bar.
 
-A screenshot of this component can be found at <screenshots/command-bar.png>.
+A screenshot of this component can be found at ![](screenshots/command-bar.png)
 
 ### 3. People page
 
@@ -40,7 +40,7 @@ In the table, users should be able to:
 - Click into a cell to edit it.
 - Add custom columns with a specific type (text, checkbox, date, number, etc).
 
-When a prospect is clicked, display their information neatly on the left-hand side with tabs for Tasks, Notes, and Emails. (You can hardcode in this data, although users should be able to edit it in memory). A screenshot of this view can be found at <screenshots/prospect-view.png>.
+When a prospect is clicked, display their information neatly on the left-hand side with tabs for Tasks, Notes, and Emails. (You can hardcode in this data, although users should be able to edit it in memory). A screenshot of this view can be found at ![](screenshots/prospect-view.png).
 
 ### 4. Settings page
 
@@ -50,7 +50,7 @@ When the user opens the Settings menu, they should see a sidebar where they can 
 - Appearance: Create four themes that the user can switch between: Light, Dark, Purple Light, Purple Dark. The UI should change accordingly.
 - Any other settings you think are important.
 
-A screenshot of this view can be found at <screenshots/settings.png>.
+A screenshot of this view can be found at ![](screenshots/settings.png).
 
 ### 5. Tasks
 
