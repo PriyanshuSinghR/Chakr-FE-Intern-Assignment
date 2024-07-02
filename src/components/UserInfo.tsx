@@ -1,4 +1,4 @@
-
+//Shows login info about the user
 const UserInfo = ()=>{
   return(
    <div className="p-2 flex gap-2 border-2 border-gray-200 rounded-md">
